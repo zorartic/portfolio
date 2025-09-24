@@ -27,11 +27,6 @@ This report investigates the weak semileptonic decay of Ω+ccb − → Ξ++ cc �
 
 ---
 
-##### Figure 1
-![](fyp.png)
-
----
-
 ##### Related material
 
 + [Presentation slides](presentation.pdf)
