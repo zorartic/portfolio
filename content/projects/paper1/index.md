@@ -5,6 +5,7 @@ tags: [""]
 author: ["Zaurayz K. Shah", "Muhammad bin Mufassir"]
 description: "This report, written for an internship under Dr. Ishtiaq Ahmed of National Center of Physics, calculates the unpolarized cross section for a QED process.The QED process under consideration involves the scattering of an electron and positron into a pair of heavier leptons. It introduces the necessary concepts of Quantum Field Theory, including Dirac spinors, trace technology and Feynman rules." 
 summary: "This report, written for an internship under Dr. Ishtiaq Ahmed of National Center of Physics, calculates the unpolarized cross section for a QED process.The QED process under consideration involves the scattering of an electron and positron into a pair of heavier leptons. It introduces the necessary concepts of Quantum Field Theory, including Dirac spinors, trace technology and Feynman rules." 
+weight: 1
 cover:
     image: "paper1.png"
     alt: "Intro to QED Processes"
