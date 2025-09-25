@@ -1,61 +1,39 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Unpolarized_Cross_Section_of_Electron_Positron_Scattering" 
+date: 2024-09-15
+tags: [""]
+author: ["Zaurayz K. Shah", "Muhammad bin Mufassir"]
+description: "This report, written for an internship under Dr. Ishtiaq Ahmed of National Center of Physics, calculates the unpolarized cross section for a QED process.The QED process under consideration involves the scattering of an electron and positron into a pair of heavier leptons. It introduces the necessary concepts of Quantum Field Theory, including Dirac spinors, trace technology and Feynman rules." 
+summary: "This report, written for an internship under Dr. Ishtiaq Ahmed of National Center of Physics, calculates the unpolarized cross section for a QED process.The QED process under consideration involves the scattering of an electron and positron into a pair of heavier leptons. It introduces the necessary concepts of Quantum Field Theory, including Dirac spinors, trace technology and Feynman rules." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Intro to QED Processes"
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
-
----
 
 ---
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](internship.pdf)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This report, written for an internship under Dr. Ishtiaq Ahmed of National Center of Physics, calculates the unpolarized cross section for a QED process. We start by introducing the necessary concepts, including Dirac spinors and Feynman rules. Following that, we will compute the matrix element and perform a detailed evaluation of the trace. Finally, we will derive the cross section, averaging over spins, and simplifying the expression step by step. The QED process under consideration involves the scattering of an electron and positron into a pair of heavier leptons. The matrix element involves spinor contractions and gamma matrix identities, which we will evaluate explicitly.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 1: Electron-Positron Scattering Feynman Diagram
 
-![](paper1.png)
+![](internship.png)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
-
 ---
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [QFT Notes by David Tong](https://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf)

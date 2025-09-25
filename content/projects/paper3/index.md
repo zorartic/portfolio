@@ -1,17 +1,14 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Proving the Impossibility of James Gunn's Superman and Adjusting Our Reality to Allow its Plausibility: A Fictional Analysis of DC using General Relativity " 
+date: 2025-09-01
+tags: [""]
+author: ["Zaurayz K. Shah"]
+description: "This personal project rigorously proves that James Gunn's Superman cannot exist within the framework of our universe as allowed by our understanding of Physics. It adjusts our current equations, constants and reality to allow the character to have a plausible existence, and explores how the unvierse would look like under those theoretical paramaters" 
+summary: "This personal project rigorously proves that James Gunn's Superman cannot exist within the framework of our universe as allowed by our understanding of Physics. It adjusts our current equations, constants and reality to allow the character to have a plausible existence, and explores how the unvierse would look like under those theoretical paramaters" 
 cover:
     image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    alt: ""
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
 
 ---
 
@@ -19,34 +16,15 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Coming Soon]()
++ [Coming Soon]()
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
-
----
-
-##### Citation
-
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
+Coming Soon
 
 ---
 
 ##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)

@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Preprints and articles by Professor Dr von Igelfeld."
+title: "Projects"
+description: "Personal Projects and Internship reports by Zaurayz K. Shah"
 ---
