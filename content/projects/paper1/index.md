@@ -1,5 +1,5 @@
 ---
-title: "Unpolarized_Cross_Section_of_Electron_Positron_Scattering" 
+title: "Unpolarized Cross Section of Electron Positron Scattering" 
 date: 2024-09-15
 tags: [""]
 author: ["Zaurayz K. Shah", "Muhammad bin Mufassir"]
