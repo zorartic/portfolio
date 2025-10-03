@@ -18,9 +18,6 @@ menu:
         - name: Research Projects
           url: projects/
           weight: 3
-        - name: Contact
-          url: contact/
-          weight: 4 
 
 params:
     description: "This website hosts Zaurayz K. Shah's thesis, research projects, curriculum vitae, and contact information."
