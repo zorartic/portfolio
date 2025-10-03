@@ -55,8 +55,6 @@ params:
               url: thesis/
             - name: Research Projects
               url: projects/
-            - name: Contact
-              url: contact/
 
     socialIcons:
         - name: CV
