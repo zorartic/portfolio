@@ -3,8 +3,8 @@ title: "Proving the Impossibility of James Gunn's Superman and Adjusting Our Rea
 date: 2025-09-01
 tags: [""]
 author: ["Zaurayz K. Shah"]
-description: "This personal project rigorously proves that James Gunn's Superman cannot exist within the framework of our universe as allowed by our understanding of Physics. It adjusts our current equations, constants and reality to allow the character to have a plausible existence, and explores how the unvierse would look like under those theoretical paramaters" 
-summary: "This personal project rigorously proves that James Gunn's Superman cannot exist within the framework of our universe as allowed by our understanding of Physics. It adjusts our current equations, constants and reality to allow the character to have a plausible existence, and explores how the unvierse would look like under those theoretical paramaters"
+description: "This personal informal research project rigorously proves that James Gunn's Superman cannot exist within the framework of our universe as allowed by our understanding of Physics. It adjusts our current equations, constants and reality to allow the character to have a plausible existence, and explores how the unvierse would look like under those theoretical paramaters" 
+summary: "This personal informal research project rigorously proves that James Gunn's Superman cannot exist within the framework of our universe as allowed by our understanding of Physics. It adjusts our current equations, constants and reality to allow the character to have a plausible existence, and explores how the unvierse would look like under those theoretical paramaters"
 weight: 3 
 cover:
     image: "paper3.png"

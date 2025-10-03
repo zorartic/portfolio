@@ -58,7 +58,7 @@ params:
               url: thesis/
             - name: Research Projects
               url: projects/
-            - name: contact
+            - name: Contact
               url: contact/
 
     socialIcons:
@@ -66,12 +66,8 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:zaurayzs15@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://zaurayz.substack.com
+        - name: linkedin
+          url: https://www.linkedin.com/in/zaurayz-kashan-shah-43232a350/
 
     assets:
         disableScrollBarStyle: true
