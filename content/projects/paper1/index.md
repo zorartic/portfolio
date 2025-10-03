@@ -15,7 +15,7 @@ cover:
 
 ##### Download
 
-+ [Paper](internship.pdf)
++ [Report](internship.pdf)
 
 ---
 
